@@ -1,0 +1,13 @@
+
+#################################
+# Emotes                        #
+# By: SpokkerNetwork            #
+# Discord:                      #
+# https://discord.gg/mswtZETUSE #
+#################################
+
+# Maximum number of accounts per IP
+MaxAccounts: 3
+
+# Plugin language (options: en, pt, es, ru)
+Language: en
