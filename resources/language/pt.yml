@@ -1,0 +1,10 @@
+# criado por xando
+
+no_permission: "Você não tem permissão para executar este comando."
+max_accounts_kick_message: "Número máximo de contas atingido."
+max_accounts_warning: "O jogador {player} tentou criar uma conta nova."
+ip_list_entry: "{player}: {count}"
+player_not_found: "Jogador especificado não encontrado."
+registered_names_for_ip: "Nomes registrados para o IP"
+players_updated_based_on_ips: "Arquivos de jogadores atualizados com base nos IPs."
+language_file_not_found: "Arquivo de linguagem '{language}.yml' não encontrado. Usando inglês como padrão."
