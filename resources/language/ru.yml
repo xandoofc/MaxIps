@@ -1,0 +1,10 @@
+# created by xando, priviet Russians, I Brazilian admire Russians
+
+no_permission: "У вас нет разрешения на выполнение этой команды."
+max_accounts_kick_message: "Достигнуто максимальное количество аккаунтов."
+max_accounts_warning: "Игрок {player} попытался создать новую учетную запись."
+ip_list_entry: "{player}: {count}"
+player_not_found: "Указанный игрок не найден."
+registered_names_for_ip: "Зарегистрированные имена для IP"
+players_updated_based_on_ips: "Файлы игроков обновлены на основе IP."
+language_file_not_found: "Файл языка '{language}.yml' не найден. Используется английский по умолчанию."
