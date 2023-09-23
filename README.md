@@ -1,7 +1,7 @@
 **MaxIps**
 
 **Description**:
-MaxIps is a custom plugin for Pocketmine-MP that supports API 3.0.0. It adds two useful commands: `/updateips` and `/iplist <empty/player name>`. Additionally, this plugin allows players to choose their preferred language in the `config.yml`. You can choose from several language options, including `mynew`, which is customizable, and four default languages: `pt` (Portuguese), `eng` (English), `ru` (Russian), and `es` (Spanish).
+MaxIps is a custom plugin for Pocketmine-MP that supports API 3.0.0. It adds two useful commands: `/updateips` and `/iplist <empty/player name>`. Additionally, this plugin allows players to choose their preferred language in the `config.yml`. You can choose from several language options, including `customLanguage`, which is customizable, and four default languages: `pt` (Portuguese), `eng` (English), `ru` (Russian), and `es` (Spanish).
 
 **Key Features**:
 - Commands: `/updateips` and `/iplist <empty/player name>`
