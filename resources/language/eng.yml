@@ -1,0 +1,11 @@
+# created by xando 
+no_permission: "You don't have permission to execute this command."
+max_accounts_kick_message: "Maximum accounts reached."
+max_accounts_warning: "Player {player} tried to create a new account."
+ip_list_entry: "{player}: {count}"
+player_not_found: "Specified player not found."
+registered_names_for_ip: "Registered names for IP"
+players_updated_based_on_ips: "Player files updated based on IPs."
+language_file_not_found: "Language file '{language}.yml' not found. Defaulting to English."
+
+
