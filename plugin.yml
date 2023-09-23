@@ -12,6 +12,6 @@ description: github xandoofc discord https://discord.gg/mswtZETUSE
 commands:
   iplist:
     permission: maxips.iplist
-  atualizarips:
+  updateips:
     permission: maxips.atualizarips
 
