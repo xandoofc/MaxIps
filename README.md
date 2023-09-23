@@ -1,5 +1,3 @@
----
-
 **MaxIps**
 
 **Description**:
@@ -24,4 +22,3 @@ MaxIps is a custom plugin for Pocketmine-MP that supports API 3.0.0. It adds two
 - `ru` (Russian)
 - `es` (Spanish)
 
----
