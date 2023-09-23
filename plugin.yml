@@ -1,0 +1,17 @@
+name: MaxIps
+version: 9.1
+api:
+- 2.0.0
+- 3.0.0
+- 4.0.0
+
+author: xandoofc
+main: spokkernetwork\maxips\Main
+description: github xandoofc discord https://discord.gg/mswtZETUSE
+
+commands:
+  iplist:
+    permission: maxips.iplist
+  atualizarips:
+    permission: maxips.atualizarips
+
